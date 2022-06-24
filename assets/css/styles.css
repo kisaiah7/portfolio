@@ -63,7 +63,7 @@
 body.dark-theme {
   /* HSL color mode */
   --first-color: hsl(var(--hue-color), 100%, 52%);
-  --first-color-alt: hsl(var(--hue-color), 100%, 45%);
+  --first-color-alt: hsl(var(--hue-color), 100%, 50%);
   --first-color-lighter: hsl(var(--hue-color), 30%, 85%);
   --title-color: hsl(var(--hue-color), 8%, 95%);
   --text-color: hsl(var(--hue-color), 8%, 75%);
@@ -615,6 +615,14 @@ img {
   display: inline-block;
   font-size: var(--small-font-size);
   margin-bottom: var(--mb-1);
+}
+
+.qualification__desc {
+  display: inline-block;
+  font-size: var(--smaller-font-size);
+  margin-bottom: var(--mb-1);
+  font-style: italic;
+  line-height: 1.4;
 }
 
 .qualification__calendar {
