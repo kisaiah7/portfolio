@@ -187,6 +187,11 @@ img {
   color: var(--first-color);
 }
 
+.nav__img {
+  width: 25px;
+  vertical-align: text-bottom;
+}
+
 .nav__toggle {
   font-size: 1.1rem;
   cursor: pointer;
@@ -734,6 +739,10 @@ img {
 .footer__bg {
   background-color: var(--first-color-second);
   padding: 2rem 0 3rem;
+}
+
+.footer__img {
+  vertical-align: sub;
 }
 
 .footer__title {
