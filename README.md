@@ -1,5 +1,6 @@
 # portfolio
 YANGHA KIM
+
 Software Engineer | Philadelphia, PA | linkedin.com/in/yanghakim | yangha.kim.96@gmail.com | yanghakim.com
 
 WORK EXPERIENCE
